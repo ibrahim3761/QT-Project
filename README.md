@@ -89,3 +89,9 @@ The game demonstrates practical application of OOP concepts:
 
 **Mohammad Ibrahim** — [@ibrahim3761](https://github.com/ibrahim3761) </br>
 **Mohammad Moaz** - [@mmoaz13](https://github.com/mmoaz13)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
