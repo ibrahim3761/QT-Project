@@ -95,3 +95,4 @@ The game demonstrates practical application of OOP concepts:
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+**You can use this for practce purposes freely**
