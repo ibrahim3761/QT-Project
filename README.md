@@ -42,7 +42,7 @@ Space Shooter is a classic 2D arcade-style game where you pilot a spaceship and 
 |---|---|
 | **C++** | Core game logic |
 | **Qt Framework** | GUI, graphics rendering, event handling |
-| **Qt Graphics View** | 2D game scene and item management |
+//| **Qt Graphics View** | 2D game scene and item management |
 | **OOP Principles** | Class design, inheritance, encapsulation |
 
 ---
